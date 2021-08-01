@@ -1,20 +1,15 @@
-### <h1 align="center"> Hi there, I'm Amanda Nascimento 👋</h1><hr>
+### <h1 align="center"> Hi there, I'm Amanda Nascimento 👋</h1>
 <br>
 - 🌱 I’m currently learning: Artificial intelligence (AI), JavaScript, HTML5, CSS3, Json e Node JS.
-
-
+<hr>
 <h1 align="center"> Hello 🌎!</h1>
 <br>
 
-<p align="left">
-  <a href="https://github.com/devnascimeno05">
-    <img height="150em"align="center"src="https://github-readme-stats.vercel.app/api?username=devnascimento05&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues"/>
-  </a>
-  <a href="https://github.com/devnascimento05">
-    <img height="150em"align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnascimento05&layout=compact"/>
-  </a>
-
-</p>
+  <div>
+  <a href="https://github.com/acf77">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devnascimento05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnascimento05&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
